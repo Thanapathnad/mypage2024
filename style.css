@@ -1,0 +1,30 @@
+p{
+    margin: 10px 0;
+    padding: 5px;
+    border: 3px solid #999;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+  .table-container {
+    display: flex;
+        justify-content: center;
+        margin-bottom: 100px
+}
+
+header {
+  background-color: #404140;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
